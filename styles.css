@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+.before:hover,.after:hover{
+	color: red;
+}
