@@ -1,4 +1,5 @@
 /*  your css code here. If applicable */
-.before:hover,.main:hover,.after:hover{
-color:rgb(255,0,0) ;
+.before,
+.after {
+  color: rgb(255, 0, 0);
 }
